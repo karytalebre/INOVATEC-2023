@@ -1,0 +1,11 @@
+Model Information:
+* title:	Oxygen Molecule
+* source:	https://sketchfab.com/3d-models/oxygen-molecule-e446304b629c4ccbbeac2bad3f0e2ecf
+* author:	S.Duce (https://sketchfab.com/sduce)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Oxygen Molecule" (https://sketchfab.com/3d-models/oxygen-molecule-e446304b629c4ccbbeac2bad3f0e2ecf) by S.Duce (https://sketchfab.com/sduce) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
